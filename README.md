@@ -1,4 +1,4 @@
-# Smartfold -- fold unwanted text where you search
+# Smartfold -- fold unwanted text when you search
 
 Vim's slash search (`/<search keyword>`) is great.  But it can become tedious to
 go through all search results by clicking `N` or `<shift>-N` a dozen of times to
