@@ -23,10 +23,10 @@
 
 
 " If already loaded, we're done...
-if exists("loaded_SmartInsert")
+if exists("loaded_SmartFold")
     finish
 endif
-let loaded_SmartInsert = 1
+let loaded_SmartFold = 1
 
 
 let s:cpo_save = &cpo
