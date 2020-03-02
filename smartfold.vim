@@ -22,6 +22,13 @@
 " WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+" If already loaded, we're done...
+if exists("loaded_SmartInsert")
+    finish
+endif
+let loaded_SmartInsert = 1
+
+
 let s:cpo_save = &cpo
 set cpo&vim
 
