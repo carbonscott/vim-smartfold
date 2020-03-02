@@ -9,7 +9,7 @@ the keyword but hide everything else.  `vim-smartfold` does exactly that.
 
 ## Installation
 
-* Download the repository: `git clone https://github.com/carbonscott/vim-smartfold .`
+* Download the repository: `git clone https://github.com/carbonscott/vim-smartfold`
 * Place it in a path where you keep your vim plugins, e.g. `$HOME/.vim/plugins` 
 * Include the following line of code in your `.vimrc`: 
   `source $HOME/.vim/plugins/vim-smartfold/smartfold.vim`
